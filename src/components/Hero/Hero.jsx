@@ -1,8 +1,8 @@
 import "./hero.css";
-import { resumeLink } from "../../data/Portfoliodata";
+import { resumeLink } from "../../Data/Portfoliodata";
 import { FaReact, FaNodeJs, FaJava } from "react-icons/fa";
 import { SiMongodb, SiMysql } from "react-icons/si";
-import { projects } from "../../data/Portfoliodata";
+import { projects } from "../../Data/Portfoliodata";
 
 export default function Hero() {
   return (

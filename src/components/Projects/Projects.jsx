@@ -1,5 +1,5 @@
 import "./projects.css";
-import { projects } from "../../data/Portfoliodata";
+import { projects } from "../../Data/Portfoliodata";
 
 export default function Projects() {
   return (

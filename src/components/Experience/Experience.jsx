@@ -1,5 +1,5 @@
 import "./experience.css";
-import { experience, certifications } from "../../data/Portfoliodata";
+import { experience, certifications } from "../../Data/Portfoliodata";
 import {
   FaBriefcase,
   FaAward,

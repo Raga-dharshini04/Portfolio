@@ -1,5 +1,5 @@
 import "./certifications.css";
-import { certifications } from "../../data/Portfoliodata";
+import { certifications } from "../../Data/Portfoliodata";
 
 export default function Certifications() {
   return (

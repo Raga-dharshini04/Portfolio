@@ -1,5 +1,5 @@
 import "./skills.css";
-import { skills } from "../../data/Portfoliodata";
+import { skills } from "../../Data/Portfoliodata";
 
 import {
   FaLaptopCode,
