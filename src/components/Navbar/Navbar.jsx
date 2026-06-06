@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./navbar.css";
-import { navLinks, resumeLink } from "../../data/portfolioData";
+import { navLinks, resumeLink } from "../../data/Portfoliodata";
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
