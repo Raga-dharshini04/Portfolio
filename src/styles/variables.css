@@ -1,0 +1,17 @@
+:root {
+  --bg-color: #eaf6ff;
+  --bg-gradient: linear-gradient(
+    135deg,
+    #f8fbff 0%,
+    #e0f2fe 50%,
+    #dbeafe 100%
+  );
+
+  --card-bg: rgba(255,255,255,0.7);
+
+  --primary: #0284c7;
+  --secondary: #38bdf8;
+
+  --title: #0f172a;
+  --text: #334155;
+}

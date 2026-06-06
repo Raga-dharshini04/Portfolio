@@ -1,0 +1,21 @@
+.footer {
+  background: var(--bg-light);
+  border-top: 1px solid var(--border);
+  padding: 1.2rem 0;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.footer strong {
+  color: var(--text-dark);
+}
+
+.footer-react {
+  color: var(--primary);
+  font-weight: 600;
+}

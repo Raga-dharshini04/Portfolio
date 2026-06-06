@@ -1,0 +1,17 @@
+.certifications-section {
+  padding: 100px 0;
+  background: #0f172a;
+}
+
+.certificate-card {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  height: 100%;
+  transition: 0.4s;
+}
+
+.certificate-card:hover {
+  transform: translateY(-10px);
+}
